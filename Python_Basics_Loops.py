@@ -43,7 +43,7 @@ for i in range(len(genre)):
 my_list = ['apple', 'banana', 'grapes', 'pear']
 for c, value in enumerate(my_list):
     print(c, value)
- """
+"""
 enumerate gives both the indices 
 and the values in two variables
 and in this case you declare 2 variables 
