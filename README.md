@@ -1,5 +1,4 @@
-# pythonBasics
-## Baisc Python files to brush up on Python programming
+### Python Basics: Brush up your Python programming
 ---
 Review the files in the following order if you are new to Python: 
 1. Python_Basics.py
